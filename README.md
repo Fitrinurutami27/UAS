@@ -1,19 +1,23 @@
 # UAS
 saya membuat studi kasus Data Peminjaman Buku
-- pertama ada tabel mahasiswa dengan atribut:
-  1. id mahasiswa (primary key)
-  2.  nama
-  3. nim
+- pertama ada tabel mahasiswa dengan atribut:\
+  - id mahasiswa (primary key)
+  - nama
+  - nim
 - ada table buku dengan atribut :
-  1. id buku (primamry key)
-  2. Judul
-  3. Pengarang
+  - id buku (primamry key)
+  - Judul
+  - Pengarang
 - ada table peminjaman buku :
-  1. id mahasiswa
-  2. id buku
-  3. tanggal pinjam
-  4. tanggal kembali
+  - id mahasiswa
+  - id buku
+  - tanggal pinjam
+  - tanggal kembali
 dengan relasi relasi yang di tentukan
+- Stack Teknologi:
+ - Laravel 12
+ - Filament v3
+ - Heidi
 <img width="1899" height="1007" alt="Screenshot 2025-07-23 051832" src="https://github.com/user-attachments/assets/4e8ee173-9e1f-4a30-a777-ecd9152f619d" />
 <img width="1748" height="845" alt="Screenshot 2025-07-23 045238" src="https://github.com/user-attachments/assets/8885885e-a8cb-4574-a8e0-341708e620e9" />
 <img width="1908" height="880" alt="Screenshot 2025-07-23 043324" src="https://github.com/user-attachments/assets/33e1b3fd-ae80-412c-af50-8009ee810662" />
